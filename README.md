@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte de um exercício prático após as aula
 
 ## Preview
 
-![Preview do Projeto](./ScreenToGif/Logs/24_11_11.txt)
+![Preview do Projeto](./ScreenToGif/tela.gif.gif)
 
 ## Tecnologias Utilizadas
 
